@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Front end Web Development ,Data Science<br>👯 I’m looking to work on with Software development companies<br>🌱 I’m currently learning Python full stack<br>⚡ Fun fact- I'm lazy but smart and talented!
+🔭 I’m currently working on Python, Front end Web Development ,Data Science<br>👯 I’m looking to work on with Software development companies<br>🌱 I’m currently learning Machine Learning and Data Analytics using Python <br>⚡ Fun fact- I'm lazy but smart and talented!
 
 
 ## 🌐 Socials:
